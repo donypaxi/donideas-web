@@ -1,0 +1,1742 @@
+[
+  {
+    "director": "BRAVO GARCIA ELIZABETH ROCIO",
+    "dni": "00794916",
+    "password": "B00794916",
+    "colegio": "233"
+  },
+  {
+    "director": "VILLANUEVA LIENDO YVANNIA DEL ROSARIO",
+    "dni": "00483424",
+    "password": "V00483424",
+    "colegio": "304"
+  },
+  {
+    "director": "CALLACONDO CABALLERO HILDA NANCY",
+    "dni": "00485731",
+    "password": "C00485731",
+    "colegio": "329"
+  },
+  {
+    "director": "ARTEAGA GANDARILLAS TATIANA LEONOR",
+    "dni": "00683409",
+    "password": "A00683409",
+    "colegio": "333"
+  },
+  {
+    "director": "YUFRA ALANOCA JULIA GUADALUPE",
+    "dni": "00417241",
+    "password": "Y00417241",
+    "colegio": "352"
+  },
+  {
+    "director": "HURTADO DE LUPA ANGELITA DELIA",
+    "dni": "00491470",
+    "password": "H00491470",
+    "colegio": "355"
+  },
+  {
+    "director": "CESPEDES SANCHEZ ROXANA BETZABE",
+    "dni": "00485253",
+    "password": "C00485253",
+    "colegio": "356"
+  },
+  {
+    "director": "CALIZAYA FLORES BEATRIZ ELIZABETH",
+    "dni": "42884778",
+    "password": "C42884778",
+    "colegio": "361"
+  },
+  {
+    "director": "AROCUTIPA LUPACA MARIA",
+    "dni": "00440437",
+    "password": "A00440437",
+    "colegio": "364"
+  },
+  {
+    "director": "FLORES ZEGARRA ADELA YLDA",
+    "dni": "00793558",
+    "password": "F00793558",
+    "colegio": "376"
+  },
+  {
+    "director": "PINO CABRERA LUZGARDA SILVIA",
+    "dni": "00477720",
+    "password": "P00477720",
+    "colegio": "377"
+  },
+  {
+    "director": "GUTIERREZ COLQUE EVA DE RUTH",
+    "dni": "00510950",
+    "password": "G00510950",
+    "colegio": "378"
+  },
+  {
+    "director": "ESPINOZA PORTILLO LUZ ROSARIO",
+    "dni": "00496336",
+    "password": "E00496336",
+    "colegio": "400"
+  },
+  {
+    "director": "MASI CARITA ANGELA MARIA",
+    "dni": "00475856",
+    "password": "M00475856",
+    "colegio": "407"
+  },
+  {
+    "director": "ANCCO LAURENTE YUDITH YOVANA",
+    "dni": "75498781",
+    "password": "A75498781",
+    "colegio": "409"
+  },
+  {
+    "director": "LANCHIPA ALE LIDIA MARIA",
+    "dni": "00412302",
+    "password": "L00412302",
+    "colegio": "419"
+  },
+  {
+    "director": "HUANCA CARISAYLE YENY EDITH",
+    "dni": "42323013",
+    "password": "H42323013",
+    "colegio": "420"
+  },
+  {
+    "director": "MAMANI AROCUTIPA RENZA GLADYS",
+    "dni": "00793812",
+    "password": "M00793812",
+    "colegio": "422"
+  },
+  {
+    "director": "MAMANI CRUZ MARGARITA",
+    "dni": "00490590",
+    "password": "M00490590",
+    "colegio": "426"
+  },
+  {
+    "director": "AYMA FERNANDEZ VILMA",
+    "dni": "00498201",
+    "password": "A00498201",
+    "colegio": "437"
+  },
+  {
+    "director": "BAILON ILAQUITA YENNY MAGALI",
+    "dni": "00796583",
+    "password": "B00796583",
+    "colegio": "440"
+  },
+  {
+    "director": "CARRASCO RAMIREZ GIOVANNA DEL ROSARIO",
+    "dni": "29570463",
+    "password": "C29570463",
+    "colegio": "441"
+  },
+  {
+    "director": "LEÓN VARGAS FLOR DE MARÍA",
+    "dni": "00493529",
+    "password": "L00493529",
+    "colegio": "442"
+  },
+  {
+    "director": "VELASCO SILES LUZBENIA",
+    "dni": "07673980",
+    "password": "V07673980",
+    "colegio": "446"
+  },
+  {
+    "director": "SILES ALE YANIRA KATHERINE",
+    "dni": "00499908",
+    "password": "S00499908",
+    "colegio": "447"
+  },
+  {
+    "director": "CALDERON CARDENAS YADIRA NAUDY",
+    "dni": "43565609",
+    "password": "C43565609",
+    "colegio": "448"
+  },
+  {
+    "director": "MACHACA MAMANI BENILDA",
+    "dni": "00493135",
+    "password": "M00493135",
+    "colegio": "450"
+  },
+  {
+    "director": "TICONA CHALCO LORENA LASTENIA",
+    "dni": "00473110",
+    "password": "T00473110",
+    "colegio": "451"
+  },
+  {
+    "director": "YEPEZ NIETO CARMEN LUISA",
+    "dni": "00509723",
+    "password": "Y00509723",
+    "colegio": "452"
+  },
+  {
+    "director": "SUAREZ LOPEZ MARILU MIRELLA",
+    "dni": "41374158",
+    "password": "S41374158",
+    "colegio": "453"
+  },
+  {
+    "director": "CALISAYA MARON YELENA GLADYS",
+    "dni": "40832364",
+    "password": "C40832364",
+    "colegio": "454"
+  },
+  {
+    "director": "VICENTE ALAY ELIZABET HAYDE",
+    "dni": "40395476",
+    "password": "V40395476",
+    "colegio": "455"
+  },
+  {
+    "director": "ASPIROS BERMUDEZ BEATRIZ",
+    "dni": "10158702",
+    "password": "A10158702",
+    "colegio": "457"
+  },
+  {
+    "director": "CONDORI PARI NILDA LIZBETH",
+    "dni": "00441989",
+    "password": "C00441989",
+    "colegio": "459"
+  },
+  {
+    "director": "MENENDEZ PEÑA YEMILE BEATRIZ",
+    "dni": "04642308",
+    "password": "M04642308",
+    "colegio": "460"
+  },
+  {
+    "director": "GOMEZ SUPO ROSA",
+    "dni": "41102729",
+    "password": "G41102729",
+    "colegio": "462"
+  },
+  {
+    "director": "FERNANDEZ FLORES JUNET DEL CARMEN",
+    "dni": "45422996",
+    "password": "F45422996",
+    "colegio": "463"
+  },
+  {
+    "director": "FERNANDEZ ALANOCA ANA MARIA",
+    "dni": "00515657",
+    "password": "F00515657",
+    "colegio": "464"
+  },
+  {
+    "director": "SILVA FLORES SANDRA RUTH",
+    "dni": "43577676",
+    "password": "S43577676",
+    "colegio": "465"
+  },
+  {
+    "director": "ACERO MAMANI MERY",
+    "dni": "00479384",
+    "password": "A00479384",
+    "colegio": "466"
+  },
+  {
+    "director": "PACHO HUARACHI CELIA",
+    "dni": "01208987",
+    "password": "P01208987",
+    "colegio": "467"
+  },
+  {
+    "director": "HUME HUAYTA YANIRA ANTONIA",
+    "dni": "42004665",
+    "password": "H42004665",
+    "colegio": "468"
+  },
+  {
+    "director": "PORTOCARRERO CARDENAS LEOVINA GABRIELA",
+    "dni": "00491796",
+    "password": "P00491796",
+    "colegio": "469"
+  },
+  {
+    "director": "MORALES YAPURASI YENNY FANNY",
+    "dni": "00514727",
+    "password": "M00514727",
+    "colegio": "470"
+  },
+  {
+    "director": "ZUÑIGA SANCHEZ AMELIA MANUELA",
+    "dni": "00794377",
+    "password": "Z00794377",
+    "colegio": "471"
+  },
+  {
+    "director": "ESPINOZA MERINO MONICA DIANA",
+    "dni": "00488494",
+    "password": "E00488494",
+    "colegio": "472"
+  },
+  {
+    "director": "AYALA ROJAS EDDA MYRIAM",
+    "dni": "00474489",
+    "password": "A00474489",
+    "colegio": "474"
+  },
+  {
+    "director": "TERROBA SILVA OLGA ASUNCION",
+    "dni": "01310292",
+    "password": "T01310292",
+    "colegio": "475"
+  },
+  {
+    "director": "PONCE ATENCIO JOSEFA REYNA",
+    "dni": "23920756",
+    "password": "P23920756",
+    "colegio": "476"
+  },
+  {
+    "director": "VALDIVIA MAMANI MEGDALID YESENIA",
+    "dni": "00792787",
+    "password": "V00792787",
+    "colegio": "477"
+  },
+  {
+    "director": "FLORES FLORES LOURDES YULIANA",
+    "dni": "00484946",
+    "password": "F00484946",
+    "colegio": "478"
+  },
+  {
+    "director": "CARCASI MAMANI MARIA DEL CARMEN",
+    "dni": "40270329",
+    "password": "C40270329",
+    "colegio": "479"
+  },
+  {
+    "director": "CASTILLO TICONA DORIA REBECA",
+    "dni": "04721554",
+    "password": "C04721554",
+    "colegio": "480"
+  },
+  {
+    "director": "CATUNTA TUCO DELMIRA",
+    "dni": "00442574",
+    "password": "C00442574",
+    "colegio": "481"
+  },
+  {
+    "director": "CURASI ZAVALA NELIDA",
+    "dni": "00493293",
+    "password": "C00493293",
+    "colegio": "482"
+  },
+  {
+    "director": "MIRANDA RIVERA ANA MARIA",
+    "dni": "00522020",
+    "password": "M00522020",
+    "colegio": "483"
+  },
+  {
+    "director": "NUÑEZ URRUTIA CARMEN JULIA",
+    "dni": "00498461",
+    "password": "N00498461",
+    "colegio": "484"
+  },
+  {
+    "director": "QUINTANILLA PEÑAFIEL GLADYS KARINA",
+    "dni": "00517915",
+    "password": "Q00517915",
+    "colegio": "486"
+  },
+  {
+    "director": "GUTIERREZ VILDOSO SANDRA MAGALY",
+    "dni": "00487059",
+    "password": "G00487059",
+    "colegio": "42196"
+  },
+  {
+    "director": "MARTORELL COAQUIRA ANTONIO",
+    "dni": "01344924",
+    "password": "M01344924",
+    "colegio": "42222"
+  },
+  {
+    "director": "CAÑI ARO JULIO CESAR",
+    "dni": "44870928",
+    "password": "C44870928",
+    "colegio": "42229"
+  },
+  {
+    "director": "LAURA CARI OCLUIVE OLIVIA",
+    "dni": "70006929",
+    "password": "L70006929",
+    "colegio": "42259"
+  },
+  {
+    "director": "TICONA MAQUERA MARIA ISABEL",
+    "dni": "01289301",
+    "password": "T01289301",
+    "colegio": "43507"
+  },
+  {
+    "director": "LINARES GUTIERREZ NOEMI SARA",
+    "dni": "00505509",
+    "password": "L00505509",
+    "colegio": "197 ORFEON"
+  },
+  {
+    "director": "VILCA QUISPE CARMEN ROSA",
+    "dni": "00479881",
+    "password": "V00479881",
+    "colegio": "198 MARGARITA BACIGALUPO"
+  },
+  {
+    "director": "BAZAN ROJAS DE VILLAVICENCIO ALDA PAOLA",
+    "dni": "00492743",
+    "password": "B00492743",
+    "colegio": "199 ESPIRITU SANTO"
+  },
+  {
+    "director": "LUQUE TICONA MERY YEMILE",
+    "dni": "00488291",
+    "password": "L00488291",
+    "colegio": "200 NELLY ROJAS DE ARENAS"
+  },
+  {
+    "director": "VELASQUEZ ORDOÑEZ ZUNILDA",
+    "dni": "24710439",
+    "password": "V24710439",
+    "colegio": "225 NIÑOS HEROES"
+  },
+  {
+    "director": "RODRIGUEZ LUQUE DE SIAS LENNY MASSIEL",
+    "dni": "00498711",
+    "password": "R00498711",
+    "colegio": "226 ROSA VIRGINIA PELLETIER"
+  },
+  {
+    "director": "AYCA CUADROS ELIZETH LUZVENIA",
+    "dni": "00450221",
+    "password": "A00450221",
+    "colegio": "227 VILLA HERMOSA"
+  },
+  {
+    "director": "RODRIGUEZ TICONA ROSA EMMA DEL CARMEN",
+    "dni": "00487017",
+    "password": "R00487017",
+    "colegio": "228 CORAZON DE JESUS"
+  },
+  {
+    "director": "AYMA FERNANDEZ ESTELA",
+    "dni": "40112627",
+    "password": "A40112627",
+    "colegio": "229 SANTA ROSA"
+  },
+  {
+    "director": "GOMEZ AYCA CARMEN MAGDALENA",
+    "dni": "00486273",
+    "password": "G00486273",
+    "colegio": "229-A MAFALDA CESPEDES QUELOPANA"
+  },
+  {
+    "director": "TEJERINA VEGAZO LOURDES GUADALUPE",
+    "dni": "00430939",
+    "password": "T00430939",
+    "colegio": "230 LOS NIÑOS DE BELEN"
+  },
+  {
+    "director": "URDANIVIA LIENDO GABRIELA MARLENE",
+    "dni": "00423415",
+    "password": "U00423415",
+    "colegio": "232 VIRGEN DE LAS MERCEDES"
+  },
+  {
+    "director": "MAMANI MAMANI GLORIA ROSA",
+    "dni": "00481656",
+    "password": "M00481656",
+    "colegio": "300 SANTA MARIA DE LA ESPERANZA"
+  },
+  {
+    "director": "INQUILLA LUNA CARMEN ROSA",
+    "dni": "00484029",
+    "password": "I00484029",
+    "colegio": "301 SANTA MARIA GORETTI"
+  },
+  {
+    "director": "MAMANI MORALES LOURDES DEL CARMEN",
+    "dni": "00410771",
+    "password": "M00410771",
+    "colegio": "308 MARIA AUXILIADORA"
+  },
+  {
+    "director": "RAMIREZ LOPEZ MARILU",
+    "dni": "00498940",
+    "password": "R00498940",
+    "colegio": "309 JARDIN PILOTO"
+  },
+  {
+    "director": "ESCOBEDO DUEÑAS RUTH SOCORRO",
+    "dni": "00488452",
+    "password": "E00488452",
+    "colegio": "312 JESUS NAZARENO"
+  },
+  {
+    "director": "CABRERA FLORES DAYSI RUTH",
+    "dni": "44167396",
+    "password": "C44167396",
+    "colegio": "314 VIRGEN DEL ROSARIO"
+  },
+  {
+    "director": "COHAILA DAVILA ROCIO DEL CARMEN",
+    "dni": "00497460",
+    "password": "C00497460",
+    "colegio": "328 JOSE DE SAN MARTIN"
+  },
+  {
+    "director": "QUISPE LOPEZ YNES GUISELA",
+    "dni": "42846408",
+    "password": "Q42846408",
+    "colegio": "330 HECTOR VELASQUEZ VALDEZ"
+  },
+  {
+    "director": "ROMERO FELIX LOURDES LAURA",
+    "dni": "00425159",
+    "password": "R00425159",
+    "colegio": "334 VIRGENCITA DE LOURDES"
+  },
+  {
+    "director": "OBESO GONZALES Maribel Luz",
+    "dni": "00488121",
+    "password": "O00488121",
+    "colegio": "335 NUESTRA SEÑORA DEL SANTO ROSARIO"
+  },
+  {
+    "director": "CALDERON TICONA LOURDES AMANDA",
+    "dni": "00419007",
+    "password": "C00419007",
+    "colegio": "336 VIRGEN DE LA NATIVIDAD"
+  },
+  {
+    "director": "FLORES CHERRES RUTH MARINA",
+    "dni": "41238896",
+    "password": "F41238896",
+    "colegio": "337 CAPITAN SAMUEL ALCAZAR"
+  },
+  {
+    "director": "VALDIVIA VALDIVIA JULIA DEL ROSARIO",
+    "dni": "00486048",
+    "password": "V00486048",
+    "colegio": "340 DIVINO NIÑO JESUS"
+  },
+  {
+    "director": "SOSA ARROYO YANET YEMINA",
+    "dni": "01284849",
+    "password": "S01284849",
+    "colegio": "344 NILDA REJAS CHAMBILLA"
+  },
+  {
+    "director": "LUNA GUZMAN MARIA SOLEDAD",
+    "dni": "00517157",
+    "password": "L00517157",
+    "colegio": "354 VIRGEN MARIA"
+  },
+  {
+    "director": "CLEMENCIA PALACIOS MARLENE MARISOL",
+    "dni": "00487774",
+    "password": "C00487774",
+    "colegio": "358 NIÑO SALVADOR"
+  },
+  {
+    "director": "PANTIGOSA CHAMBILLA TELMA",
+    "dni": "41542407",
+    "password": "P41542407",
+    "colegio": "368 NORAH FLORES TORRES"
+  },
+  {
+    "director": "TORRES FLORES EVA MARLENE",
+    "dni": "00791509",
+    "password": "T00791509",
+    "colegio": "380 LUIS CAVAGNARO ORELLANA"
+  },
+  {
+    "director": "VICENTE CUSIRRAMOS MÓNICA IVONNE",
+    "dni": "00494600",
+    "password": "V00494600",
+    "colegio": "381 SAN JOSE"
+  },
+  {
+    "director": "HUAJE ZEGARRA MARGARITA LUCIA",
+    "dni": "04437211",
+    "password": "H04437211",
+    "colegio": "385 MADRE TERESA DE CALCUTA"
+  },
+  {
+    "director": "VARGAS VILLANUEVA LASTENIA CICELA",
+    "dni": "00436216",
+    "password": "V00436216",
+    "colegio": "396 ALFONSO UGARTE"
+  },
+  {
+    "director": "ACHATA TERROBA VERONICA PAOLA",
+    "dni": "01335440",
+    "password": "A01335440",
+    "colegio": "397 SAN FRANCISCO"
+  },
+  {
+    "director": "LIENDO MOLINA JUDITH MARIELA",
+    "dni": "00495496",
+    "password": "L00495496",
+    "colegio": "398 HEROES DEL CENEPA"
+  },
+  {
+    "director": "CANDELA SAAVEDRA GISELA DEL ROSARIO",
+    "dni": "00487296",
+    "password": "C00487296",
+    "colegio": "405 NAZARENO"
+  },
+  {
+    "director": "MAMANI CONDE BENEDICTA CATALINA",
+    "dni": "00480020",
+    "password": "M00480020",
+    "colegio": "408 SANTISIMA TRINIDAD"
+  },
+  {
+    "director": "MUTTER CUELLAR NATACHA VALESKA",
+    "dni": "00498092",
+    "password": "M00498092",
+    "colegio": "411 NIÑOS DE FATIMA"
+  },
+  {
+    "director": "ESQUIVEL PALOMINO NATALI",
+    "dni": "40268100",
+    "password": "E40268100",
+    "colegio": "412 JORGE BASADRE GROHOMAN"
+  },
+  {
+    "director": "CANO MENDOZA ELBA MARITZA",
+    "dni": "01231861",
+    "password": "C01231861",
+    "colegio": "413 LUIS BANCHERO ROSSI"
+  },
+  {
+    "director": "RAMOS CAÑARI LOURDES CONSUELO",
+    "dni": "00441146",
+    "password": "R00441146",
+    "colegio": "414 VIRGEN DEL ROSARIO"
+  },
+  {
+    "director": "MORALES YAPUYACHI MAGALY MEYLIN",
+    "dni": "40461769",
+    "password": "M40461769",
+    "colegio": "415 SAGRADA FAMILIA"
+  },
+  {
+    "director": "BOHORQUEZ VILLANUEVA VERONICA ISABEL",
+    "dni": "00485923",
+    "password": "B00485923",
+    "colegio": "416 VIRGEN DE GUADALUPE"
+  },
+  {
+    "director": "GUTIERREZ CATACORA NANCI",
+    "dni": "00498349",
+    "password": "G00498349",
+    "colegio": "418 SEÑOR DE LOS MILAGROS"
+  },
+  {
+    "director": "MAMANI CONDORI ELVIRA TOMASA",
+    "dni": "00425960",
+    "password": "M00425960",
+    "colegio": "42002 CARLOS WIESSE"
+  },
+  {
+    "director": "GARCIA RONDON JAVIER ANTONIO",
+    "dni": "01284860",
+    "password": "G01284860",
+    "colegio": "42003 GREGORIO ALBARRACIN"
+  },
+  {
+    "director": "PANIAGUA GUILLERMO ORLANDO MARCELINO",
+    "dni": "00412287",
+    "password": "P00412287",
+    "colegio": "42005 JOSE ROSA ARA"
+  },
+  {
+    "director": "SOTO GUTIERREZ JUAN CARLOS",
+    "dni": "23986042",
+    "password": "S23986042",
+    "colegio": "42006 SAN FRANCISCO DE ASIS"
+  },
+  {
+    "director": "TAPIA MAMANI DEMECIO ROMAN",
+    "dni": "00403124",
+    "password": "T00403124",
+    "colegio": "42007 LEONCIO PRADO"
+  },
+  {
+    "director": "SARMIENTO FLORES LUIS ALBERTO",
+    "dni": "00484162",
+    "password": "S00484162",
+    "colegio": "42008 JUANA GONZALES DE PARODI"
+  },
+  {
+    "director": "ARIAS MUSAJA ADOLFO ADAPO",
+    "dni": "00494868",
+    "password": "A00494868",
+    "colegio": "42011 REPUBLICA ARGENTINA"
+  },
+  {
+    "director": "MEDINA PINTO LETICIA ROSARIO",
+    "dni": "41408913",
+    "password": "M41408913",
+    "colegio": "42012 REBECA MARTINEZ DE SANCHEZ"
+  },
+  {
+    "director": "NINAJA RODRIGUEZ RAQUEL NORMA",
+    "dni": "00508078",
+    "password": "N00508078",
+    "colegio": "42013 ROSA DOMINGA PEREZ LIENDO"
+  },
+  {
+    "director": "MAMANI ACERO FERNAN",
+    "dni": "00442229",
+    "password": "M00442229",
+    "colegio": "42014 JOSE JIMENEZ BORJA"
+  },
+  {
+    "director": "CUITO ROJAS CECILIA GLADYS",
+    "dni": "00416698",
+    "password": "C00416698",
+    "colegio": "42015 ZOILA SABEL CACERES"
+  },
+  {
+    "director": "RIVEROS VELO ELIZABETH NANCY",
+    "dni": "00409738",
+    "password": "R00409738",
+    "colegio": "42016 MAXIMILIANA VELASQUEZ DE SOTILLO"
+  },
+  {
+    "director": "COLLANTES BERRIO YOBANA",
+    "dni": "21529533",
+    "password": "C21529533",
+    "colegio": "42017 NEISER G. LLACSA ARCE"
+  },
+  {
+    "director": "RAMOS PUMA DARWIN SAMUEL",
+    "dni": "01296480",
+    "password": "R01296480",
+    "colegio": "42019 LASTENIA REJAS DE CASTAÑON"
+  },
+  {
+    "director": "PORTUGAL HERRERA ELMER LEOPOLDO",
+    "dni": "00484070",
+    "password": "P00484070",
+    "colegio": "42020 ALMIRANTE MIGUEL GRAU"
+  },
+  {
+    "director": "TORRES OJEDA ENRIQUE HUGO",
+    "dni": "00420641",
+    "password": "T00420641",
+    "colegio": "42021 FORTUNATO ZORA CARVAJAL"
+  },
+  {
+    "director": "JUAREZ COLQUE MARIA VICTORIA",
+    "dni": "00441963",
+    "password": "J00441963",
+    "colegio": "42022 DR. MODESTO MONTESINOS ZAMALLOA"
+  },
+  {
+    "director": "YUCRA QUISPE SILVIA",
+    "dni": "29408999",
+    "password": "Y29408999",
+    "colegio": "42023 VICTOR MAYURI CLAUSSEN"
+  },
+  {
+    "director": "LUQUE LLANQUI MANUEL AMERICO",
+    "dni": "00482126",
+    "password": "L00482126",
+    "colegio": "42025 AURELIA ARCE VILDOSO"
+  },
+  {
+    "director": "LOPEZ MAQUERA OLIVIA",
+    "dni": "00459363",
+    "password": "L00459363",
+    "colegio": "42032 JOSE JOAQUIN INCLAN"
+  },
+  {
+    "director": "APONTE CARRASCO LADY MARGOT",
+    "dni": "10284260",
+    "password": "A10284260",
+    "colegio": "42036 JUAN MARIA REJAS"
+  },
+  {
+    "director": "CONSTANCIO ZARATE NESTOR WILLY",
+    "dni": "80339339",
+    "password": "C80339339",
+    "colegio": "42038 MICAELA PAREDES REJAS"
+  },
+  {
+    "director": "CUTIPA CAHUANA ALICIA ELIZABETH",
+    "dni": "40819228",
+    "password": "C40819228",
+    "colegio": "42044 ALFONSO UGARTE"
+  },
+  {
+    "director": "CABRERA CHAUCA ULDARICO ROY",
+    "dni": "00670439",
+    "password": "C00670439",
+    "colegio": "42053 BARTOLOME JULIO ROSPIGLIOSI"
+  },
+  {
+    "director": "PANIAGUA CHAMBE ANA MARIA",
+    "dni": "00426805",
+    "password": "P00426805",
+    "colegio": "42058 OLGA GROHMAN DE BASADRE"
+  },
+  {
+    "director": "YALPA RAVELO MAGDALENA",
+    "dni": "00790364",
+    "password": "Y00790364",
+    "colegio": "42060 CRNEL MARCELINO VARELA BARRIOS"
+  },
+  {
+    "director": "HUANCA MAMANI ESTEFANI MARYORI",
+    "dni": "74393526",
+    "password": "H74393526",
+    "colegio": "42062 ATASPACA"
+  },
+  {
+    "director": "MAMANI CHIPANA ANA MARIA",
+    "dni": "00412834",
+    "password": "M00412834",
+    "colegio": "42063 JOSE MARIA ARGUEDAS ALTAMIRANO"
+  },
+  {
+    "director": "ACHO ARRATIA EVA",
+    "dni": "00500272",
+    "password": "A00500272",
+    "colegio": "42064 ALFONSO UGARTE"
+  },
+  {
+    "director": "ROJAS HUALPA RENATO RONAL",
+    "dni": "00440893",
+    "password": "R00440893",
+    "colegio": "42065 ROMULO BOLUARTE PONCE DE LEON"
+  },
+  {
+    "director": "Gutierrez Choque Patricia Soledad",
+    "dni": "00506277",
+    "password": "G00506277",
+    "colegio": "42068 FRANCISCO LASO"
+  },
+  {
+    "director": "ACHO CALIZAYA MARIA LUZ",
+    "dni": "00497061",
+    "password": "A00497061",
+    "colegio": "42072 CAROLINA FREYRE ARIAS"
+  },
+  {
+    "director": "JUAREZ ACAHUANA LUCRECIA DORA",
+    "dni": "04406447",
+    "password": "J04406447",
+    "colegio": "42073 MARIA PILAR VILLANUEVA B"
+  },
+  {
+    "director": "COTRADO ONOFRE ENRIQUE",
+    "dni": "01332808",
+    "password": "C01332808",
+    "colegio": "42088 DON JOSE DE SAN MARTIN"
+  },
+  {
+    "director": "NAVARRO DAZA LADY JUANA",
+    "dni": "00487729",
+    "password": "N00487729",
+    "colegio": "42195 WILMA SOTILLO DE BACIGALUPO"
+  },
+  {
+    "director": "VALDEZ CRUZ CAROL JAQUELIN",
+    "dni": "41431541",
+    "password": "V41431541",
+    "colegio": "42197 VICTOR GUTIERREZ ORDOÑES"
+  },
+  {
+    "director": "VARGAS MAMANI GUIDO GILBERTO",
+    "dni": "00484392",
+    "password": "V00484392",
+    "colegio": "42198 VICTOR RAUL HAYA DE LA TORRE"
+  },
+  {
+    "director": "CHIPANA ALAVE ASUNTA EUGENIA",
+    "dni": "00493369",
+    "password": "C00493369",
+    "colegio": "42199 JUAN VELASCO ALVARADO"
+  },
+  {
+    "director": "ALCCA RIVERA LIDIA ESTHER",
+    "dni": "00442829",
+    "password": "A00442829",
+    "colegio": "42200 OMAR ZILBERT SALAS"
+  },
+  {
+    "director": "CHIPANA CONDORI ISAC ANGEL",
+    "dni": "00445476",
+    "password": "C00445476",
+    "colegio": "42211 ALFONSO EYZAGUIRRE TARA"
+  },
+  {
+    "director": "NINAJA CHOQUE HERMELINDA VALENTINA",
+    "dni": "00482579",
+    "password": "N00482579",
+    "colegio": "42213 HUGO SALAZAR DEL ALCAZAR"
+  },
+  {
+    "director": "VELASQUEZ PACCI ISOLINO JUAN",
+    "dni": "80391197",
+    "password": "V80391197",
+    "colegio": "42217 NUESTROS HEROES DE LA GUERRA DEL PACIFICO"
+  },
+  {
+    "director": "GUTIERREZ SOLARI CAYETANO JOSHUA",
+    "dni": "00486061",
+    "password": "G00486061",
+    "colegio": "42218 MARISCAL CACERES"
+  },
+  {
+    "director": "DAVALOS MAMANI CLAUDIA MARIA",
+    "dni": "00445224",
+    "password": "D00445224",
+    "colegio": "42223 MANUEL DE MENDIBURU"
+  },
+  {
+    "director": "PUMA ALE OSCAR RAFAEL",
+    "dni": "00499837",
+    "password": "P00499837",
+    "colegio": "42237 JORGE CHAVEZ"
+  },
+  {
+    "director": "YUFRA TENORIO HECTOR",
+    "dni": "00497562",
+    "password": "Y00497562",
+    "colegio": "42238 ENRIQUE PALLARDELLE"
+  },
+  {
+    "director": "FRANCO LEON LUZ VERONICA",
+    "dni": "00497620",
+    "password": "F00497620",
+    "colegio": "42241 HERMOGENES ARENAS YAÑEZ"
+  },
+  {
+    "director": "ROJAS PACHO ISIDRO JAVIER",
+    "dni": "01305624",
+    "password": "R01305624",
+    "colegio": "42244 CESAR VALLEJO"
+  },
+  {
+    "director": "CUTIPA QUENTA PABLO",
+    "dni": "01215360",
+    "password": "C01215360",
+    "colegio": "42245 MICAELA BASTIDAS"
+  },
+  {
+    "director": "MACHICADO ORTEGA ELIZABETH VIRGINIA",
+    "dni": "01855796",
+    "password": "M01855796",
+    "colegio": "42246 JOSE OLAYA BALANDRA"
+  },
+  {
+    "director": "MAMANI QUISPE FLORO LAURO",
+    "dni": "00407894",
+    "password": "M00407894",
+    "colegio": "42250 CESAR COHAILA TAMAYO"
+  },
+  {
+    "director": "VALLE ZAVALA OSCAR LUIS",
+    "dni": "00475093",
+    "password": "V00475093",
+    "colegio": "42251 SIMON BOLIVAR"
+  },
+  {
+    "director": "FLORES SANCHEZ MARIA ELVIRA",
+    "dni": "00465635",
+    "password": "F00465635",
+    "colegio": "42253 GERARDO ARIAS COPAJA"
+  },
+  {
+    "director": "RAMOS COPARE VICTOR MANUEL",
+    "dni": "00412323",
+    "password": "R00412323",
+    "colegio": "42255 SANTA TERESITA DEL NIÑO JESUS"
+  },
+  {
+    "director": "CHOQUE  PEDRO RENATO",
+    "dni": "41207807",
+    "password": "C41207807",
+    "colegio": "42256 ESPERANZA MARTINEZ DE LOPEZ"
+  },
+  {
+    "director": "CORI RODRIGUEZ JUDITH PAULINA",
+    "dni": "00790340",
+    "password": "C00790340",
+    "colegio": "42257 NUESTRO SEÑOR DE LA MISERICORDIA"
+  },
+  {
+    "director": "CHOQUEMOROCO TICONA HUGO NERIO",
+    "dni": "73245367",
+    "password": "C73245367",
+    "colegio": "42261 NUEVO COPARE"
+  },
+  {
+    "director": "RAMOS CANQUI ELSA MARLENE",
+    "dni": "00794256",
+    "password": "R00794256",
+    "colegio": "42263 ADALGIZA VIRGINIA LAZARO VILLARROEL"
+  },
+  {
+    "director": "VARGAS SALCEDO CARMEN JULIA",
+    "dni": "00469519",
+    "password": "V00469519",
+    "colegio": "424 LOURDES VILDOSO DE GAMBETA"
+  },
+  {
+    "director": "LEON PERALTA JENNY LUISA",
+    "dni": "00492931",
+    "password": "L00492931",
+    "colegio": "429 EL SANTO DE LA ESPADA"
+  },
+  {
+    "director": "SAYRA SAYRA LUIS ALBERTO",
+    "dni": "00472986",
+    "password": "S00472986",
+    "colegio": "43001 HERMANOS BARRETO"
+  },
+  {
+    "director": "ZAPATA GALLEGOS JUAN CARLOS",
+    "dni": "00795207",
+    "password": "Z00795207",
+    "colegio": "43003 CARLOS ARMANDO LAURA"
+  },
+  {
+    "director": "POMA ALANOCA ZACARIAS",
+    "dni": "01819826",
+    "password": "P01819826",
+    "colegio": "43004 JUSTO ARIAS ARAGUEZ"
+  },
+  {
+    "director": "PACHECO ALE PEDRO INOCENCIO",
+    "dni": "29555048",
+    "password": "P29555048",
+    "colegio": "43005 MODESTO MOLINA"
+  },
+  {
+    "director": "MAZUELOS CHAVEZ PABLO",
+    "dni": "01318667",
+    "password": "M01318667",
+    "colegio": "43006 MERCEDES INDACOCHEA"
+  },
+  {
+    "director": "ACUÑA TAMAYO ABRAHAM JESÚS",
+    "dni": "21862696",
+    "password": "A21862696",
+    "colegio": "43007 LUIS BANCHERO ROSSI"
+  },
+  {
+    "director": "GONZALES CHAMBE NANCY ISABEL",
+    "dni": "00414486",
+    "password": "G00414486",
+    "colegio": "43008 JORGE MARTORELL FLORES"
+  },
+  {
+    "director": "CROSBY CARBAJAL ETELVINA CAROLINA",
+    "dni": "00496778",
+    "password": "C00496778",
+    "colegio": "43009 MARIA UGARTECHE DE MACLEAN"
+  },
+  {
+    "director": "HERRERA FLORES VIRGINIA YESICA",
+    "dni": "00792560",
+    "password": "H00792560",
+    "colegio": "435 LAS COLMENAS"
+  },
+  {
+    "director": "TUYO QUISPE DANIEL",
+    "dni": "00660019",
+    "password": "T00660019",
+    "colegio": "43505 GUSTAVO PONS MUZZO"
+  },
+  {
+    "director": "PASTEN VALDIVIA CHRISTIAN ARMANDO",
+    "dni": "40488088",
+    "password": "P40488088",
+    "colegio": "43506 JUVENAL UBALDO ORDOÑEZ SALAZAR"
+  },
+  {
+    "director": "LLANO PACO TERESA ROSA",
+    "dni": "00449014",
+    "password": "L00449014",
+    "colegio": "43508 PROCER MANUEL CALDERON DE LA BARCA"
+  },
+  {
+    "director": "NINA CAHUANA JESUS BONIFACIO",
+    "dni": "00484172",
+    "password": "N00484172",
+    "colegio": "443 SANTA TERESITA"
+  },
+  {
+    "director": "TICAHUANCA CAPCHA SOCRATES",
+    "dni": "01822096",
+    "password": "T01822096",
+    "colegio": "449 EDUARDO PEREZ GAMBOA"
+  },
+  {
+    "director": "CHOQUECOTA QUISPE DE GUERRA NELLY SONIA",
+    "dni": "40207078",
+    "password": "C40207078",
+    "colegio": "456 EL CARMELO DE MARIA"
+  },
+  {
+    "director": "GONZALES JALIRI DINA",
+    "dni": "40016075",
+    "password": "G40016075",
+    "colegio": "473 PEDRO QUINA CASTAÑON"
+  },
+  {
+    "director": "PAYE CASTILLO MARILU",
+    "dni": "41072016",
+    "password": "P41072016",
+    "colegio": "8 DE DICIEMBRE"
+  },
+  {
+    "director": "GAVANCHO MUÑIZ MARINA JERONIMA",
+    "dni": "00470674",
+    "password": "G00470674",
+    "colegio": "ALEXANDER FLEMING"
+  },
+  {
+    "director": "LOAYZA CHIPANA HELFER JESUS",
+    "dni": "00432873",
+    "password": "L00432873",
+    "colegio": "ALEXANDER VON HUMBOLDT"
+  },
+  {
+    "director": "ARCE VILLAVICENCIO LUZ ANGELA",
+    "dni": "00517084",
+    "password": "A00517084",
+    "colegio": "ARCO IRIS"
+  },
+  {
+    "director": "SARDON TALVAC ANA MARIA",
+    "dni": "00431159",
+    "password": "S00431159",
+    "colegio": "CARRUSELL"
+  },
+  {
+    "director": "FLORES AROCUTIPA MARISOL ISABEL",
+    "dni": "00483887",
+    "password": "F00483887",
+    "colegio": "CEBA - 42195 WILMA SOTILLO D. BACIGALUPO"
+  },
+  {
+    "director": "CARDENAS CUTIPA MARLENE SONIA",
+    "dni": "00488172",
+    "password": "C00488172",
+    "colegio": "CEBA - 42218 MARISCAL CACERES"
+  },
+  {
+    "director": "NIETO TICONA JUSTINA ROSA",
+    "dni": "00473701",
+    "password": "N00473701",
+    "colegio": "CEBA - ANDRES BELLO"
+  },
+  {
+    "director": "TINTAYA CHOQUE MERY ANGELICA",
+    "dni": "00469426",
+    "password": "T00469426",
+    "colegio": "CEBA - ARTURO JIMENEZ BORJA"
+  },
+  {
+    "director": "LIMACHE SANDOVAL WILMER FACTOR",
+    "dni": "01264343",
+    "password": "L01264343",
+    "colegio": "CEBA - CARLOS ARMANDO LAURA"
+  },
+  {
+    "director": "LAQUE VELASQUEZ JULIAN MIGUEL",
+    "dni": "00414810",
+    "password": "L00414810",
+    "colegio": "CEBA - CESAR AUGUSTO COHAILA TAMAYO"
+  },
+  {
+    "director": "ORDOÑEZ ENRIQUEZ JUANA ISABEL",
+    "dni": "00494739",
+    "password": "O00494739",
+    "colegio": "CEBA - CORONEL BOLOGNESI"
+  },
+  {
+    "director": "DIAZ CALISAYA ELSA AVELINA",
+    "dni": "00484512",
+    "password": "D00484512",
+    "colegio": "CEBA - JORGE BASADRE GROHMANN"
+  },
+  {
+    "director": "MAMANI COLQUE LADY DEL ROSARIO",
+    "dni": "00486036",
+    "password": "M00486036",
+    "colegio": "CEBA - JOSE JOAQUIN INCLAN"
+  },
+  {
+    "director": "RIOS CARITA LILIANA JOVITA",
+    "dni": "00430906",
+    "password": "R00430906",
+    "colegio": "CEBA - LUIS ALBERTO SANCHEZ"
+  },
+  {
+    "director": "QUIRITA SULLA MICAELA",
+    "dni": "23960165",
+    "password": "Q23960165",
+    "colegio": "CEBA - MARIA MONTESSORI"
+  },
+  {
+    "director": "SILES COHAILA ADALBERTO WENCESLAO",
+    "dni": "00400988",
+    "password": "S00400988",
+    "colegio": "CEBA - MARIA ROSARIO ARAOZ"
+  },
+  {
+    "director": "LEDESMA QUIQUE CARMEN LOURDES",
+    "dni": "00492932",
+    "password": "L00492932",
+    "colegio": "CEBA - NILO VILDOSO GARCIA"
+  },
+  {
+    "director": "SUCAPUCA MACHACA ROSEVELT",
+    "dni": "00521613",
+    "password": "S00521613",
+    "colegio": "CEBA - NOE MOISES DAVALOS IBAÑEZ"
+  },
+  {
+    "director": "ZEGARRA PONCE LUIS ROBERTO",
+    "dni": "29472649",
+    "password": "Z29472649",
+    "colegio": "CEBA - SAN CARLOS"
+  },
+  {
+    "director": "FUENTES DE POLAR TERESA UBALDINA",
+    "dni": "00473898",
+    "password": "F00473898",
+    "colegio": "CEBA - SAN PEDRO"
+  },
+  {
+    "director": "CARRIZALES HILASACA ERNESTO",
+    "dni": "02035083",
+    "password": "C02035083",
+    "colegio": "CEPA EL FARO"
+  },
+  {
+    "director": "RAMOS MAMANI MARIA TERESA",
+    "dni": "00795859",
+    "password": "R00795859",
+    "colegio": "CHAMPAGNAT"
+  },
+  {
+    "director": "FLORES CESPEDES MIGUEL ANGEL",
+    "dni": "00404360",
+    "password": "F00404360",
+    "colegio": "CIMA"
+  },
+  {
+    "director": "LOPEZ SOTO LUCILA ANTONIA",
+    "dni": "00496892",
+    "password": "L00496892",
+    "colegio": "CIUDAD DE DIOS"
+  },
+  {
+    "director": "PEROCHENA MORAN ROXANA RITA",
+    "dni": "29581453",
+    "password": "P29581453",
+    "colegio": "CLARITA GAMBETTA"
+  },
+  {
+    "director": "LIMACHE LUQUE MAURO CLAROS",
+    "dni": "00413759",
+    "password": "L00413759",
+    "colegio": "COMANDANTE ELIAS AGUIRRE"
+  },
+  {
+    "director": "TINTAYA CARDENAS OSCAR RUFO",
+    "dni": "00415410",
+    "password": "T00415410",
+    "colegio": "CORONEL BOLOGNESI"
+  },
+  {
+    "director": "NINATAYPE CHUCUYA RUBEN",
+    "dni": "41992555",
+    "password": "N41992555",
+    "colegio": "CORONEL GREGORIO ALBARRACIN LANCHIPA"
+  },
+  {
+    "director": "QUISPE SILES MARGARITA SEVERINA",
+    "dni": "00404764",
+    "password": "Q00404764",
+    "colegio": "CRISTINA VILDOSO BERRIOS"
+  },
+  {
+    "director": "VARGAS LIENDO NELFI ABEL",
+    "dni": "00795569",
+    "password": "V00795569",
+    "colegio": "CRISTO REY"
+  },
+  {
+    "director": "ACERO CALAMULLO JUAN",
+    "dni": "41105378",
+    "password": "A41105378",
+    "colegio": "CRISTO REY DEL NIÑO Y ADOLESCENTE"
+  },
+  {
+    "director": "CHOQUE GUTIERREZ AIDA",
+    "dni": "00505081",
+    "password": "C00505081",
+    "colegio": "CRISTO SALVADOR"
+  },
+  {
+    "director": "INFANTAS FRANCO DE ALVAREZ KARINA",
+    "dni": "00790189",
+    "password": "I00790189",
+    "colegio": "DANIEL COMBONI"
+  },
+  {
+    "director": "LUDEÑA SALDAÑA PILAR DEL ROSARIO",
+    "dni": "10319780",
+    "password": "L10319780",
+    "colegio": "DON BOSCO"
+  },
+  {
+    "director": "MAMANI CHIPANA REMIGIO",
+    "dni": "01802385",
+    "password": "M01802385",
+    "colegio": "DR. JOSE ANTONIO ENCINAS FRANCO"
+  },
+  {
+    "director": "JARA ALMONTE CORNEJO EDDY FORTUNATA",
+    "dni": "00476609",
+    "password": "J00476609",
+    "colegio": "EL BUEN PASTOR"
+  },
+  {
+    "director": "MACCHIAVELLO MORALES MARIANELLA ROSARIO",
+    "dni": "00507329",
+    "password": "M00507329",
+    "colegio": "EL SHADDAI"
+  },
+  {
+    "director": "YPANAQUE CALERO JOSE LUIS",
+    "dni": "02672087",
+    "password": "Y02672087",
+    "colegio": "EMANUEL"
+  },
+  {
+    "director": "ROMERO YUFRA ESTEFANIA ALICIA",
+    "dni": "00472350",
+    "password": "R00472350",
+    "colegio": "EMMA GAMERO NIETO"
+  },
+  {
+    "director": "JUAREZ GONZA LELIS DEL CARMEN",
+    "dni": "04749929",
+    "password": "J04749929",
+    "colegio": "ESTRELLITAS DE JESUS"
+  },
+  {
+    "director": "TICONA MAMANI MARIO GENARO",
+    "dni": "00486126",
+    "password": "T00486126",
+    "colegio": "FEDERICO BARRETO"
+  },
+  {
+    "director": "BEDREGAL RAMIREZ PAULINA",
+    "dni": "00432357",
+    "password": "B00432357",
+    "colegio": "FEDERICO VILLARREAL"
+  },
+  {
+    "director": "BRAVO CORNEJO PATRICIA ROXANA",
+    "dni": "25741539",
+    "password": "B25741539",
+    "colegio": "FELIX Y CAROLINA DE REPETTI"
+  },
+  {
+    "director": "ENRIQUEZ CHAMBER FREDY ANIBAL",
+    "dni": "00418573",
+    "password": "E00418573",
+    "colegio": "FRANCISCO ANTONIO DE ZELA"
+  },
+  {
+    "director": "TOALA  MARIA MILAGROS",
+    "dni": "00493353",
+    "password": "T00493353",
+    "colegio": "GUILLERMO AUZA ARCE"
+  },
+  {
+    "director": "BEJARANO SAYCO MARIA DEL ROSARIO",
+    "dni": "00475495",
+    "password": "B00475495",
+    "colegio": "HERMANAS BARCIA BONIFFATTI"
+  },
+  {
+    "director": "SAAVEDRA BEJARANO FABIOLA ALEJANDRA",
+    "dni": "40561636",
+    "password": "S40561636",
+    "colegio": "HERMANAS BARCIA BONIFFATTI"
+  },
+  {
+    "director": "PEREZ MALDONADO CHRISTIAN PAOLO",
+    "dni": "41841439",
+    "password": "P41841439",
+    "colegio": "HIRAM BINGHAM SCHOOL"
+  },
+  {
+    "director": "RAMOS CONDORI NELLY EDITH",
+    "dni": "00796392",
+    "password": "R00796392",
+    "colegio": "IMAGINA SCHOOL"
+  },
+  {
+    "director": "SALAMANCA PILCO ALDO",
+    "dni": "00475781",
+    "password": "S00475781",
+    "colegio": "INDEPENDENCIA AMERICANA"
+  },
+  {
+    "director": "MIRANDA PEREZ YVAN",
+    "dni": "00507267",
+    "password": "M00507267",
+    "colegio": "INNOVA SCHOOLS"
+  },
+  {
+    "director": "NOMBERTO LUPERDI ERICKA PAMELA",
+    "dni": "09861863",
+    "password": "N09861863",
+    "colegio": "INNOVA SCHOOLS - TACNA - POCOLLAY"
+  },
+  {
+    "director": "MANZANEDO TORIBIO HERMELINDA",
+    "dni": "40526253",
+    "password": "M40526253",
+    "colegio": "INTERNACIONAL ELIM"
+  },
+  {
+    "director": "PALMA ZEA DE ANGULO MARINA",
+    "dni": "00425436",
+    "password": "P00425436",
+    "colegio": "ISAAC NEWTON"
+  },
+  {
+    "director": "MAMANI CHURA JAIME BERNABE",
+    "dni": "00512112",
+    "password": "M00512112",
+    "colegio": "JORGE BASADRE GROHMANN"
+  },
+  {
+    "director": "MONTOYA ZEGARRA KARINA CARLA",
+    "dni": "40275138",
+    "password": "M40275138",
+    "colegio": "JOSE ROSA ARA"
+  },
+  {
+    "director": "HERRERA TEJEDA VERONICA CANDI",
+    "dni": "41858951",
+    "password": "H41858951",
+    "colegio": "KINDERLAND"
+  },
+  {
+    "director": "URTEAGA FARFAN ANA ESTHER",
+    "dni": "44355145",
+    "password": "U44355145",
+    "colegio": "LA CASITA DE LA TIA LORENY"
+  },
+  {
+    "director": "PEREZ CABRERA BLANCA LILIANA",
+    "dni": "18227419",
+    "password": "P18227419",
+    "colegio": "LA CASITA KOLOB"
+  },
+  {
+    "director": "PAZ PALOMINO JIMMY LENIN",
+    "dni": "43376226",
+    "password": "P43376226",
+    "colegio": "LA TORRE"
+  },
+  {
+    "director": "URBANO CHOQUE DULMIS MARISOL",
+    "dni": "00676162",
+    "password": "U00676162",
+    "colegio": "LOS ANGELES"
+  },
+  {
+    "director": "BAILON ILAQUITA HAYDEE CHARITO",
+    "dni": "00415233",
+    "password": "B00415233",
+    "colegio": "LOS CABITOS"
+  },
+  {
+    "director": "SANDOVAL AVILA RUTH SUSY",
+    "dni": "00408806",
+    "password": "S00408806",
+    "colegio": "LOS NIÑOS DE SANTA FORTUNATA"
+  },
+  {
+    "director": "Valdivia Barba Vanessa Mirella",
+    "dni": "00508061",
+    "password": "V00508061",
+    "colegio": "LOS NIÑOS REYES"
+  },
+  {
+    "director": "SIERRA CAYO MIGUEL ANGEL",
+    "dni": "00485706",
+    "password": "S00485706",
+    "colegio": "LUIS ALBERTO SANCHEZ"
+  },
+  {
+    "director": "PEREZ GUTIERREZ JACKELINE MARCOSA",
+    "dni": "00474766",
+    "password": "P00474766",
+    "colegio": "MANUEL A ODRIA"
+  },
+  {
+    "director": "TEJADA MAMANI DAISY",
+    "dni": "00493064",
+    "password": "T00493064",
+    "colegio": "MANUEL FLORES CALVO"
+  },
+  {
+    "director": "FLORES ALLENDE LUZ MARINA",
+    "dni": "00474042",
+    "password": "F00474042",
+    "colegio": "MI SEGUNDO HOGAR"
+  },
+  {
+    "director": "RODRIGUEZ LLERENA ANA MARIA DEL ROSARIO",
+    "dni": "00488067",
+    "password": "R00488067",
+    "colegio": "MIGUEL PRO"
+  },
+  {
+    "director": "ESPINOZA VALLE JORGE RODOLFO",
+    "dni": "04432845",
+    "password": "E04432845",
+    "colegio": "MODESTO BASADRE"
+  },
+  {
+    "director": "YAÑEZ MUÑOZ NANCY DORA",
+    "dni": "00513070",
+    "password": "Y00513070",
+    "colegio": "MUNICIPAL CIUDAD NUEVA"
+  },
+  {
+    "director": "LUVON ESPINOZA GISELA FANNY",
+    "dni": "40337402",
+    "password": "L40337402",
+    "colegio": "NIÑO JESUS"
+  },
+  {
+    "director": "SANCHEZ PALACIOS RUDY",
+    "dni": "00467295",
+    "password": "S00467295",
+    "colegio": "NIÑOS DE AMERICA"
+  },
+  {
+    "director": "CORONADO FLORES Sylvana de Jesús",
+    "dni": "00514632",
+    "password": "C00514632",
+    "colegio": "NUESTRA SEÑORA DE FATIMA"
+  },
+  {
+    "director": "PASTEN TALACE JHANNIRY ISABEL",
+    "dni": "40734229",
+    "password": "P40734229",
+    "colegio": "NUESTRA SEÑORA DEL ROSARIO"
+  },
+  {
+    "director": "GUTIERREZ FLORES MARIA NORA MERCEDES",
+    "dni": "40297058",
+    "password": "G40297058",
+    "colegio": "NUEVO HORIZONTE"
+  },
+  {
+    "director": "COLANA YUFRA LISBETH VICTORIA",
+    "dni": "41342683",
+    "password": "C41342683",
+    "colegio": "OLGA GROHMANN DE BASADRE"
+  },
+  {
+    "director": "LARICO HUALLPA JHONNY ZACARIAS",
+    "dni": "44027424",
+    "password": "L44027424",
+    "colegio": "PARAISO DEL NIÑO"
+  },
+  {
+    "director": "MANSILLA PIMENTEL GLADYS ELIANA",
+    "dni": "00488264",
+    "password": "M00488264",
+    "colegio": "PARROQUIAL CORAZON DE MARIA"
+  },
+  {
+    "director": "QUISPE CONDORI ELOY JAVIER",
+    "dni": "00476136",
+    "password": "Q00476136",
+    "colegio": "PEDRO PAULET MOSTAJO"
+  },
+  {
+    "director": "LANDABERRY FERNANDEZ LORELI YAJAYDA",
+    "dni": "40049170",
+    "password": "L40049170",
+    "colegio": "PNP ALFEREZ MARIANO SANTOS MATEOS"
+  },
+  {
+    "director": "CALISAYA LIMACHE MARINA",
+    "dni": "41031759",
+    "password": "C41031759",
+    "colegio": "PROCER MARIANO MELGAR VALDIVIESO"
+  },
+  {
+    "director": "MOLINA RUEDA LOURDES PAMELA",
+    "dni": "00514635",
+    "password": "M00514635",
+    "colegio": "REINA DE LOS ANGELES"
+  },
+  {
+    "director": "REYNA GUILLEN DORLY KRUSSIE",
+    "dni": "00790283",
+    "password": "R00790283",
+    "colegio": "ROSA CODA DE MARTORELL"
+  },
+  {
+    "director": "ARRATIA CABRERA TOMACINI HOUSTON",
+    "dni": "45927149",
+    "password": "A45927149",
+    "colegio": "SAINT GREGORY AMERICAN COLLEGE"
+  },
+  {
+    "director": "GUTARRA DE BERRIOS MARIA ANGELICA MIRIAN",
+    "dni": "00412303",
+    "password": "G00412303",
+    "colegio": "SAN AGUSTIN"
+  },
+  {
+    "director": "ORDOÑEZ CRESPO VERONICA AMPARO",
+    "dni": "73887256",
+    "password": "O73887256",
+    "colegio": "SAN ANTONIO MARIA CLARET"
+  },
+  {
+    "director": "MAMANI VILCASA MARUJA CANDELARIA",
+    "dni": "00452296",
+    "password": "M00452296",
+    "colegio": "SAN GABRIEL ARCANGEL"
+  },
+  {
+    "director": "RODRIGUEZ FLORES KAREN CYNTHIA",
+    "dni": "41168129",
+    "password": "R41168129",
+    "colegio": "SAN IGNACIO DE LOYOLA"
+  },
+  {
+    "director": "NUÑEZ DEL PRADO CARCAMO GILBERTO OMAR",
+    "dni": "00434907",
+    "password": "N00434907",
+    "colegio": "SAN JOSE DE NAZARET"
+  },
+  {
+    "director": "ANQUISE CHOQUECOTA AGUSTIN",
+    "dni": "00482764",
+    "password": "A00482764",
+    "colegio": "SAN JOSE FE Y ALEGRIA 40"
+  },
+  {
+    "director": "QUISPE VILDOSO DILCIA EDIT",
+    "dni": "00402917",
+    "password": "Q00402917",
+    "colegio": "SAN JUAN"
+  },
+  {
+    "director": "MAMANI CABANA YUDITH BRIGIDA",
+    "dni": "45369680",
+    "password": "M45369680",
+    "colegio": "SAN MARCOS"
+  },
+  {
+    "director": "LAURIENTE REYME JUAN CARLOS",
+    "dni": "42128314",
+    "password": "L42128314",
+    "colegio": "SAN MARTIN DE PORRES"
+  },
+  {
+    "director": "HUAYCANI HUANACUNE SANTA ANA",
+    "dni": "40846271",
+    "password": "H40846271",
+    "colegio": "SAN MIGUEL ARCANGEL"
+  },
+  {
+    "director": "CALIZAYA TOTORA MARIA EUGENIA",
+    "dni": "00443483",
+    "password": "C00443483",
+    "colegio": "SANTA ANA"
+  },
+  {
+    "director": "PEREZ DE MIRANDA GLORIA SILA",
+    "dni": "00414892",
+    "password": "P00414892",
+    "colegio": "SANTA CECILIA"
+  },
+  {
+    "director": "HERRERA ALE MARTHA ROSARIO SABINA",
+    "dni": "40274247",
+    "password": "H40274247",
+    "colegio": "SANTA CRUZ"
+  },
+  {
+    "director": "ABARCA ZUÑIGA JENIFFER CELIA ROSA",
+    "dni": "29283319",
+    "password": "A29283319",
+    "colegio": "SANTA MARGARITA"
+  },
+  {
+    "director": "BECERRA BARRAZA MARCIANA CONSUELO",
+    "dni": "00406958",
+    "password": "B00406958",
+    "colegio": "SANTA MARIA"
+  },
+  {
+    "director": "ASTETE TUPAYACHI JESSICA",
+    "dni": "00511531",
+    "password": "A00511531",
+    "colegio": "SANTA TERESA DE JESUS"
+  },
+  {
+    "director": "URBANO INQUILLA JOEL ALCIVIADYS",
+    "dni": "46705490",
+    "password": "U46705490",
+    "colegio": "STEVE JOBS COLLEGE"
+  },
+  {
+    "director": "VALDEZ MARON ELEANA ALICIA",
+    "dni": "00472233",
+    "password": "V00472233",
+    "colegio": "TRAVESURAS"
+  },
+  {
+    "director": "DONNIE JOEL PAXI PALACIOS",
+    "dni": "00000000",
+    "password": "D00000000",
+    "colegio": "UGEL TACNA"
+  },
+  {
+    "director": "GIRON ZEBALLOS EBERT ROBERTO",
+    "dni": "00476271",
+    "password": "G00476271",
+    "colegio": "VERDAD Y VIDA - VERITAS ET VITA"
+  },
+  {
+    "director": "PORTUGAL DE COPAJA INES CARLOTA",
+    "dni": "00434103",
+    "password": "P00434103",
+    "colegio": "WILLIAM PRESCOTT"
+  }
+]
