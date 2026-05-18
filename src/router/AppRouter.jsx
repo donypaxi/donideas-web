@@ -3,7 +3,7 @@ import { HomePage } from "../pages"
 import { EmpadronadosPage } from "../pages/EmpadronadosPage";
 import { DelegadosPage } from "../pages/DelegadosPage";
 import { ComunicadosPage } from "../pages/ComunicadosPage"
-import { EmpadronamientoPage } from "../components/EmpadronamientoPage";
+import { EmpadronamientoPage } from "../pages/EmpadronamientoPage";
 
 export const AppRouter = () => {
   return (
@@ -14,7 +14,6 @@ export const AppRouter = () => {
             <Route path="/padron" element={<EmpadronadosPage />} />
             <Route path="/delegados" element={<DelegadosPage />} />
             <Route path="/empadronamiento" element={<EmpadronamientoPage />} />
-
         </Routes>
     </>
   )

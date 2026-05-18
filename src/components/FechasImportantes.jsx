@@ -1,7 +1,14 @@
 const fechasImportantes = [
   {
+    fecha: "18 Mayo",
+    titulo: "Reunión General de Delegados",
+    descripcion:
+      "",
+    color: "from-blue-900 to-cyan-700",
+  },
+  {
     fecha: "12 Julio",
-    titulo: "XIV Olimpiadas Ex-Alumnos Bolognesianos 2026",
+    titulo: "Inicio de la XIV Olimpiadas Ex-Alumnos Bolognesianos 2026",
     descripcion:
       "Celebración oficial por el aniversario de la Institución Educativa Coronel Bolognesi.",
     color: "from-blue-900 to-cyan-700",
