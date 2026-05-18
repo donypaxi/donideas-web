@@ -1,8 +1,9 @@
 import foto1 from "../assets/img/bolognesi1.png";
 import foto2 from "../assets/img/bolognesi2.jpg";
 import foto3 from "../assets/img/bolognesi3.jpg";
+import foto4 from "../assets/img/bolognesi2002.jpeg";
 
-export const fotos = [foto1, foto2, foto3];
+export const fotos = [foto1, foto2, foto3, foto4];
 
 export const comunicados = [
   {

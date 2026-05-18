@@ -21,7 +21,7 @@ export const EmpadronamientoPage = () => {
   });
 
   const URL_SCRIPT =
-    "https://script.google.com/macros/s/AKfycbzqSG3uxZ39-DZqeLMZt_JdLKorwlCfVYWIihXTy5Q4TKrjnyBVd3bWnm6C-d3NauQJ/exec";
+    "https://script.google.com/macros/s/AKfycby3Z_famJJ2GPywJhfYa_gEbrdUecOvafpgXW9hrnPKu7bn51w9mGffOsgWNQ2kxrFN/exec"
 
   const cerrarModal = () => {
     setModal({
@@ -67,87 +67,91 @@ export const EmpadronamientoPage = () => {
   };
 
   const handleSubmit = async (e) => {
-    e.preventDefault();
+  e.preventDefault();
 
-    if (form.dni.length !== 8) {
+  if (form.dni.length !== 8) {
+    mostrarModal(
+      "error",
+      "DNI inválido",
+      "El DNI debe tener exactamente 8 dígitos."
+    );
+    return;
+  }
+
+  if (form.celular.length !== 9) {
+    mostrarModal(
+      "error",
+      "Celular inválido",
+      "El celular debe tener exactamente 9 dígitos."
+    );
+    return;
+  }
+
+  setEnviando(true);
+
+  try {
+    const respuesta = await fetch(URL_SCRIPT, {
+      method: "POST",
+      body: JSON.stringify({
+        dni: form.dni,
+        apellidos: form.apellidos,
+        nombres: form.nombres,
+        celular: form.celular,
+        correo: form.correo,
+        promocion: form.promocion,
+      }),
+    });
+
+    const data = await respuesta.json();
+
+    console.log("Respuesta Apps Script:", data);
+
+    if (data.result === "success") {
       mostrarModal(
-        "error",
-        "DNI inválido",
-        "El DNI debe tener exactamente 8 dígitos."
+        "success",
+        "Registro exitoso",
+        "El empadronamiento fue registrado correctamente."
       );
-      return;
-    }
 
-    if (form.celular.length !== 9) {
-      mostrarModal(
-        "error",
-        "Celular inválido",
-        "El celular debe tener exactamente 9 dígitos."
-      );
-      return;
-    }
-
-    setEnviando(true);
-
-    try {
-      const datos = new FormData();
-
-      datos.append("dni", form.dni);
-      datos.append("apellidos", form.apellidos);
-      datos.append("nombres", form.nombres);
-      datos.append("celular", form.celular);
-      datos.append("correo", form.correo);
-      datos.append("promocion", form.promocion);
-
-      const respuesta = await fetch(URL_SCRIPT, {
-        method: "POST",
-        body: datos,
+      setForm({
+        dni: "",
+        apellidos: "",
+        nombres: "",
+        celular: "",
+        correo: "",
+        promocion: "",
       });
-
-      const data = await respuesta.json();
-
-      console.log("Respuesta Apps Script:", data);
-
-      if (data.result === "success") {
-        mostrarModal(
-          "success",
-          "Registro exitoso",
-          "El empadronamiento fue registrado correctamente."
-        );
-
-        setForm({
-          dni: "",
-          apellidos: "",
-          nombres: "",
-          celular: "",
-          correo: "",
-          promocion: "",
-        });
-      } else if (data.result === "duplicado") {
-        mostrarModal(
-          "warning",
-          "DNI ya registrado",
-          "Este DNI ya se encuentra registrado en el padrón."
-        );
-      } else {
-        mostrarModal(
-          "error",
-          "No se pudo registrar",
-          data.message || "Ocurrió un error inesperado."
-        );
-      }
-    } catch (error) {
-      console.log("Error:", error);
-
+    } else if (data.result === "duplicado_padron") {
+      mostrarModal(
+        "warning",
+        "Ya estás en el padrón",
+        "Este DNI ya figura en el padrón oficial de ex alumnos."
+      );
+    } else if (data.result === "no_padron") {
+      mostrarModal(
+        "warning",
+        "DNI no encontrado",
+        "Su DNI no figura en el padrón oficial de ex alumnos."
+      );
+    } else {
       mostrarModal(
         "error",
-        "Error de conexión",
-        "No se pudo conectar con el formulario. Intente nuevamente."
+        "No se pudo registrar",
+        data.message || "Ocurrió un error inesperado."
       );
-    } finally {
-      setEnviando(false);
     }
-  };
+  } catch (error) {
+    console.error("Error:", error);
+
+    mostrarModal(
+      "error",
+      "Error de conexión",
+      "No se pudo conectar con el formulario. Intente nuevamente."
+    );
+  } finally {
+    setEnviando(false);
+  }
+};
 
   return (
     <>

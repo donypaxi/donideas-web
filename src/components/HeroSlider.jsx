@@ -37,7 +37,7 @@ export const HeroSlider = () => {
       <img
         src={fotos[imagenActual]}
         alt="Asociación Bolognesiana"
-        className="w-full h-full object-cover"
+        className="w-full h-full object-contain"
       />
 
       {/* Overlay oscuro */}

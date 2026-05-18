@@ -1,6 +1,7 @@
 import comunicado1 from "../assets/img/comunicado1.jpg";
 import comunicado2 from "../assets/img/comunicado2.jpg";
 import comunicado3 from "../assets/img/comunicado3.jpg";
+import comunicado4 from "../assets/img/comunicado4.jpg";
 
 export const comunicados = [
   {
@@ -29,5 +30,14 @@ export const comunicados = [
     imagen: comunicado3,
     descripcion:
       "Se convoca a los delegados de cada promoción a una reunión de coordinación.",
+  },
+  {
+    id: 4,
+    titulo: "Convocatoria a reunión de delegados",
+    fecha: "Subido el domingo 17 de mayo de 2026",
+    categoria: "Comunicado",
+    imagen: comunicado4,
+    descripcion:
+      "Se comunica a los distintos delegados por encargo de la Comisión Organizadora 2026 la citación a reunión para este Lunes 18 de mayo para tratar la siguiente agenda.",
   },
 ];
