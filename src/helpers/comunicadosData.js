@@ -2,6 +2,9 @@ import comunicado1 from "../assets/img/comunicado1.jpg";
 import comunicado2 from "../assets/img/comunicado2.jpg";
 import comunicado3 from "../assets/img/comunicado3.jpg";
 import comunicado4 from "../assets/img/comunicado4.jpg";
+import inscripcion from "../assets/img/INSCRIPCION.jpeg";
+import nuevasDisciplinas from "../assets/img/nuevasDisciplinas.jpeg";
+import bonificacion from "../assets/img/bonificacion.jpeg";
 
 export const comunicados = [
   {
@@ -40,4 +43,57 @@ export const comunicados = [
     descripcion:
       "Se comunica a los distintos delegados por encargo de la Comisión Organizadora 2026 la citación a reunión para este Lunes 18 de mayo para tratar la siguiente agenda.",
   },
+  {
+  id: 5,
+  titulo: "XIV OLIMPIADAS DE EX ALUMNOS BOLOGNESIANOS",
+  fecha: "Subido el 27 de mayo de 2026",
+  categoria: "INSCRIPCIONES ABIERTAS",
+  imagen: inscripcion,
+  descripcion: `
+  🏆 INSCRIPCIONES ABIERTAS
+  Podrán efectuar el abono en cualquiera de las siguientes cuentas BCP:
+  👤 Javier Pari Miranda
+  💳 Cuenta BCP Soles:
+  54094333705094
+  🔗 CCI:
+  0025401943370509432
+
+  👤 Omar Marca Dueñas
+  💳 Cuenta BCP Soles:
+  54099150131071
+  🔗 CCI:
+  00254019915013107137
+
+  📌 Importante:
+  Enviar el comprobante de pago a los delegados correspondientes.
+  `,
+  },
+  {
+    id: 6,
+    titulo: "NUEVAS DISCIPLINAS",
+    fecha: "Subido el 27 de mayo de 2026",
+    categoria: "OLIMPIADAS 2026",
+    imagen: nuevasDisciplinas,
+    descripcion: `
+    🏅 ¡Las Olimpiadas Bolognesianas siguen creciendo!
+    Este año incorporamos nuevas disciplinas:
+    🏀 Basketball 3x3
+    🏊 Natación
+    Más integración, competencia y espíritu deportivo para todos los participantes.
+    `,
+  },
+  {
+    id: 6,
+    titulo: "bonificacion",
+    fecha: "Subido el 08 de junio de 2026",
+    categoria: "OLIMPIADAS 2026",
+    imagen: bonificacion,
+    descripcion: `
+    +1 punto por inscripciones hasta el 12/06
+    0 punto por inscripciones hasta el 30/06
+    -1 punto por inscripciones hasta el 06/07
+    `,
+  },
+
+
 ];

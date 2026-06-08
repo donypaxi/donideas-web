@@ -49,7 +49,7 @@ export const Comunicados = () => {
                   {item.titulo}
                 </h3>
 
-                <p className="text-gray-600 mt-3 leading-relaxed">
+                <p className="text-gray-600 mt-3 leading-relaxed whitespace-pre-line">
                   {item.descripcion}
                 </p>
               </div>

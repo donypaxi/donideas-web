@@ -66,7 +66,7 @@ export const ComunicadosPage = () => {
                   {item.titulo}
                 </h3>
 
-                <p className="text-gray-600 mt-3">
+                <p className="text-gray-600 mt-3 whitespace-pre-line">
                   {item.descripcion}
                 </p>
               </div>
